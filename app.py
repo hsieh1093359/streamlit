@@ -8,7 +8,7 @@ from typing import List, NamedTuple, Optional
 
 import av
 import cv2
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import numpy as np
 import pydub
 import streamlit as st
